@@ -8,7 +8,7 @@ A C++ terminal-based cricket simulation game where two teams compete in a short-
 
 - Select 4 players each for **Team A** and **Team B** from a pool of 11 players.
 - Simulate a **toss** to decide batting or bowling.
-- Each team gets **6 deliveries** (1 over) to score.
+- Each team gets **1 over** to score.
 - **Automatic run generation**, with `0` run counting as **OUT**.
 - Live **score updates**, **wickets**, and **match results**.
 - Real-time feel with timed pauses (`usleep()` for effects).
